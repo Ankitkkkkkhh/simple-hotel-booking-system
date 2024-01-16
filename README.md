@@ -1,2 +1,5 @@
-# simple-hotel-booking-system
-PHP,HTML,CSS,JS,MYSQL
+php
+html 
+css
+js
+mysql
